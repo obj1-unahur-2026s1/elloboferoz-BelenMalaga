@@ -7,9 +7,6 @@ object caperucita {
         peso = peso +cantidadManzanas * 0.2
     }
 
-    
-
-
     method perderManzana() {
         cantidadManzanas = cantidadManzanas -1 
     }
