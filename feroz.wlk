@@ -31,5 +31,5 @@ object cazador {
     lobo.crisis()
   }
 }
-  
-  
+
+

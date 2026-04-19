@@ -12,8 +12,7 @@ object caperucita {
     }
 
     method pesoManzana () = 0.2
-       
-    
+          
 }
 
 object abuelita {
